@@ -13,4 +13,5 @@
     "types": ["vite/client"]
   },
   "include": ["src"]
+  "exclude": ["src/countdown.test.ts"]
 }
